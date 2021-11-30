@@ -3,7 +3,7 @@ import timeit
 import matplotlib.pyplot as plt
 import numpy as np
 
-#Algoritmo Fibonnaci Recursivo
+#Algoritmo Fibonnaci Iterativo
 def alguma_funcao(n):
     ultimo=1
     penultimo=1
